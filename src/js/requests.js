@@ -1,5 +1,4 @@
 // add your tmdb API_KEY here
-const API_KEY = "953e3b852cffaa8521f2304c516fa3e9";
 
 const requests = {
   fetchTrending: `/trending/all/week?api_key=${API_KEY}&language=en-US`,
